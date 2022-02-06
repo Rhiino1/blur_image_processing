@@ -1,0 +1,21 @@
+Prueba de imagen de 720p
+Paralelizado 4 procesos con Open mpi: 
+Time elapsed: 0.355961
+Paralelizado a 4 hilos: 
+Time elapsed: 0.489089
+Secuencial: 
+Time elapsed: 1.031701
+Prueba de imagen de 1080p
+Paralelizado 4 procesos con Open mpi: 
+Time elapsed: 0.530674
+Paralelizado a 4 hilos: 
+Time elapsed: 0.884275
+Secuencial: 
+Time elapsed: 2.401970
+Prueba de imagen de 4k
+Paralelizado 4 procesos con Open mpi: 
+Time elapsed: 1.288430
+Paralelizado a 4 hilos: 
+Time elapsed: 2.778859
+Secuencial: 
+Time elapsed: 9.374516
